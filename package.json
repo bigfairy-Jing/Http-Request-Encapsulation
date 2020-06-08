@@ -1,0 +1,22 @@
+{
+  "name": "http-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./nodeTest/server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigfairy-Jing/Http-Request-Encapsulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigfairy-Jing/Http-Request-Encapsulation/issues"
+  },
+  "homepage": "https://github.com/bigfairy-Jing/Http-Request-Encapsulation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
